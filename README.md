@@ -1,5 +1,5 @@
 <h3 align="center"> 
-  **Progetto Reti Logiche A.A. 2024/2025**
+  Progetto Reti Logiche A.A. 2024/2025
 </h3>
 <h4 align="center"> 
   Davide Ponzo, 10842752 <br>
