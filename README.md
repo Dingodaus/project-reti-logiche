@@ -6,7 +6,7 @@
   Filippo Romano, 10855364
 </h4>
 
-Progetto realizzato per il progetto del corso di Reti Logiche del Politecnico di Milano nell'anno accademico 2024/2025.  
+Progetto realizzato per il corso di Reti Logiche del Politecnico di Milano nell'anno accademico 2024/2025.  
 Tratta la progettazione e design di un circuito hardware tramite linguaggio VHDL. 
 
 Il progetto è stato realizzato interamente utilizzando la versione più recente di [Vivado](https://www.xilinx.com/support/download.html).  
